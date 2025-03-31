@@ -1,0 +1,24 @@
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.log-item {
+  margin: 10rpx;
+}
+.motto{
+  font-size:xx-large;
+  color: darkgreen;
+  font-weight: 600;
+}
+.intro{
+  padding-left: 30px;
+  padding-bottom: 60px;
+  color: darkgreen;
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.logo{
+  
+}

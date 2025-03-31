@@ -1,0 +1,23 @@
+<!--logs.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="section__ctn">
+        <view class="motto">{{motto}}</view>
+        </view>
+    </view>
+    <view class="page__bd">
+      <view class="section">
+  
+      </view>
+      <view class="section">
+      <view class="intro">{{intro}}</view>
+        <view class="btn-area">
+           <button type="primary" ontap="login">Start</button>
+        </view>
+      <view class="logo">
+      <image src="images/logo.jpg"></image>
+      </view>
+      </view>
+
+    </view>
+</view>
